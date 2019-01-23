@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/open_sans/OpenSans-Regular.ttf');
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.active {
+    background-color: #262B37;
+}
+
+header div div:last-of-type a:hover {
+    background-color: #262b37;
+    color: white;
+}
+
+footer {
+    background-color: #262b37;
+}
